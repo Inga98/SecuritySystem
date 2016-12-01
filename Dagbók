@@ -3,3 +3,12 @@
 
 21.11.2016 
 Veit ekki alveg hvað við erum að gera. Inga og Ísak fengu "mega" arduino borð, þannig að við þurfum ekki lengur að reyna að tengja allt í 2 borð. Tómas er að setja upp login system.
+
+23.11.2016
+Það er allt að bila og ekkert að ganga upp hreyfiskynjarinn virkar ekki lengur og ekki hitamælirinn heldur, lyklaborðið er það eina sem virkar eins og er en það skrifast bara út í serial monitornum en vill ekki virka a skjánum. T´mas heldur áfram með síðuna og er að reyna að koma í gang mailserver.
+
+28.11.2016 Við förum haft alltof lítinn tíma til þess að vera að vinna í þessu vegna annarra verkefni en núna er verkefnið að byrja á fullu. Hreyfinskynjarinn fór í gang loksins í tíunda skiptið og verður það vonandi varanlegt. Ísak fær alltaf upp sömu villuna í sínu verkefni og vonum við að það fari nú að detta inn. Tómasi gengur vel með síðuna og er kominn fínn grunnur sem þarf að fara að bæta við og stækka.
+
+30.11.2016
+Í dag er seinasti dagur nóvembermánaðar og það er greinilega lukkudagurinn okkar því að í dag byrjaði allt bara að virka einn tveir og tíu, það sem er búið að vera detta inn og út í alan vetur byrjaði allt saman að virka í dag og birtust allar upplýsingar sem við þurfum. Núna þurfum við bara að fá tengingu við gagnagrunn og senda gögnin þangað svo að hægt sé að sækja þau þaðan og setja þau inn á síðuna.
+Við erum hætt við að reyna að tengja skjáinn sem við vorum að nota og ætlum að nota bara venjulegan skjá fyrst að við erum komin með mega og getum þá tengt allt saman við hann. 
